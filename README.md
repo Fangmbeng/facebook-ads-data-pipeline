@@ -54,7 +54,7 @@ db.campaigns.find().pretty()
 ```
 facebook-ads-data-pipeline/
 │── app.py              # Main script for fetching and storing data
-│── requirements.txt    # Required Python packages
+│── requirements.txt    # Add the Required Python packages
 │── README.md           # Documentation
 ```
 
