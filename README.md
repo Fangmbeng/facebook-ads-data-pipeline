@@ -1,10 +1,3 @@
-# facebook-ads-data-pipeline
-facebook-ads-data-pipeline
-Here’s an improved version of your **Facebook Ads Data Pipeline** code with proper error handling, optimized database operations, and an improved structure:  
-
----
-
-
 # 📊 **facebook-ads-data-pipeline**  
 
 ### **Description**  
